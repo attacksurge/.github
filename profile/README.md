@@ -1,4 +1,5 @@
 ![AttackSurge](https://raw.githubusercontent.com/attacksurge/.github/main/attacksurge.png)
-At AttackSurge, our mission is to offer distributed scanning that's accessible and transparent.
+At AttackSurge, our mission is to make distributed scanning accessible and transparent for everyone. <br> <br>
+We are dedicated to building free tools and curating resources that leverage cloud providers, empowering users to perform rapid and efficient security scans.
 
-We focus on building free tools and curating resources for rapid security scanning by leveraging cloud providers.
+
