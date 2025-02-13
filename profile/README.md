@@ -14,7 +14,7 @@ Born out of the desire to democratize security scanning, AttackSurge was created
 
 ### Distributed Scanning Framework (ax)
 - **What It Does:**  
-  Ax is our flagship tool—a distributed scanning framework that lets you control your infrastructure and scale scanning operations using eight supported cloud providers.
+  [Ax](https://github.com/attacksurge/ax) is our flagship tool—a distributed scanning framework that lets you control your infrastructure and scale scanning operations using eight supported cloud providers.
 - **Key Features:**  
   - Rapid deployment of fleets of cloud instances  
   - Execution of arbitrary binaries and scripts for offensive security  
@@ -28,7 +28,7 @@ Born out of the desire to democratize security scanning, AttackSurge was created
 
 ### Minimal Pentesting/Bug Bounty Dockerfiles
 - **What It Is:**  
-  A collection of lightweight Dockerfiles optimized for pentesting and bug bounty work.
+  [dockerfiles](https://github.com/attacksurge/dockerfiles) is a collection of lightweight Dockerfiles optimized for pentesting and bug bounty work.
 - **Purpose:**  
   Simplifying the process of setting up reproducible, controlled environments for security assessments.
 
