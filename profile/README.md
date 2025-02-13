@@ -1,4 +1,6 @@
-![AttackSurge](https://raw.githubusercontent.com/attacksurge/.github/main/attacksurge.png)
+<div align="center">
+ <img src="https://raw.githubusercontent.com/attacksurge/.github/main/attacksurge.png" alt="AttackSurge" width="800">
+</div>
 
 # AttackSurge
 
