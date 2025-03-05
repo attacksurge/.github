@@ -10,7 +10,7 @@ At AttackSurge, our mission is to make distributed scanning accessible and trans
 
 ## Our Story
 
-Born out of the desire to democratize security scanning, AttackSurge was created to break down the barriers that traditionally limit large-scale scanning operations. By leveraging cloud providers and open-source methodologies, we empower users to control their scanning infrastructure on their own terms. We’re a passionate community continuously learning, iterating, and sharing knowledge.
+Born out of the necessity to quickly scan millions of hosts and the desire to democratize security scanning, AttackSurge was created to dismantle the traditional hurdles of large-scale scanning by harnessing the power of cloud providers and open-source tools. Our mission is simple: give you full control over your scanning infrastructure, on your own terms. As a vibrant community, we’re constantly evolving—learning, refining, and sharing insights to stay ahead of emerging threats.
 
 ## What We Offer
 
