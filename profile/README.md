@@ -4,10 +4,10 @@
 
 # AttackSurge
 
-**⚡ Cloud-Scale Offensive Scanning on Your Terms**
+**⚡ Distributed Cloud Scanning on Your Terms**
 
 ## Introduction
-AttackSurge builds open-source tools to make large-scale security scanning fast, flexible, and transparent for everyone. We empower security professionals, researchers, and bug bounty hunters to run cloud-scale scans on their own terms — no heavy, monolithic setups required.
+AttackSurge builds open-source tools to make large-scale security scanning fast, flexible, and transparent for everyone. We empower security professionals, researchers, and bug bounty hunters to run distributed scans in their own cloud environments — on their own terms, with no heavy, monolithic setups required.
 
 ## Projects
 - ⚡ **[ax](https://github.com/attacksurge/ax)** – A distributed scanning framework for offensive security professionals. Spin up fleets of cloud instances across multiple providers to run your tools at scale — ideal for rapid recon and testing.
